@@ -1,0 +1,31 @@
+<app-nav-menu></app-nav-menu>
+<div class="container">
+  <div class="row">
+    <button [routerLink]="['/addappointment']" style="margin-bottom:10px">Add Appointment</button>
+    <table class="style">
+      <tr>
+        <th>Id</th>
+        <th>ReleaseDate</th>
+        <th>confirmed</th>
+        <th>capacity</th>
+        <th>TotalWeight</th>
+        <th>Action</th>
+      </tr>
+      <tr *ngFor="let item of appointments; let i = index">
+        <td>{{item.id}}</td>
+        <td>{{item.releaseDate}}</td>
+        <td>{{item.confirmed}}</td>
+        <td>{{item.capacity}}</td>
+        <td>{{item.totalWeight}}</td>
+        
+        <td>
+          <div class="col-md-12">
+            <div class="col-md-4"><button style="color:green" (click)="confirm(item.id,true)"><i class="fa fa-thumbs-up"></i>Comfirm</button></div>
+            <div class="col-md-3"><button style="color:red" (click)="confirm(item.id,false)"><i class="fa fa-thumbs-down"></i>Deny</button></div>
+            <div class="col-md-3"><button style="color:darkblue" [routerLink]="['/addappointment',item.id]"><i class="fa fa-pencil"></i>Edit</button></div>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

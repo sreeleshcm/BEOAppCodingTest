@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sreelesh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sreelesh\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.deps.json
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.csprojAssemblyReference.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.AssemblyInfoInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.AssemblyInfo.cs
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.csproj.CoreCompileInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Dtos\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.pdb

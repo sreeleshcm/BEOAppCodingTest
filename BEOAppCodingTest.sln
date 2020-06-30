@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEOAppCodingTest", "BEOAppCodingTest\BEOAppCodingTest.csproj", "{4C9DE491-3DB8-4C45-91EB-301338AAD62B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEOAppCodingTest.Service", "BEOAppCodingTest.Service\BEOAppCodingTest.Service.csproj", "{7212DBAF-422E-445B-81AD-1AF32FAEE0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEOAppCodingTest.DataAccess", "BEOAppCodingTest.DataAccess\BEOAppCodingTest.DataAccess.csproj", "{5C883C7A-4700-4F35-9B49-D17B0BF18282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEOAppCodingTest.Models", "BEOAppCodingTest.Models\BEOAppCodingTest.Models.csproj", "{D2629B6B-1402-4F9C-9A15-262FD8A41627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEOAppCodingTest.Common", "BEOAppCodingTest.Common\BEOAppCodingTest.Common.csproj", "{D85ED5D3-EAD1-4194-82F0-5CB178B0882E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEOAppCodingTest.Dtos", "BEOAppCodingTest.Dtos\BEOAppCodingTest.Dtos.csproj", "{736DAB5F-451B-4E3C-A5A2-FBC81D6A6597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9DE491-3DB8-4C45-91EB-301338AAD62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9DE491-3DB8-4C45-91EB-301338AAD62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9DE491-3DB8-4C45-91EB-301338AAD62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9DE491-3DB8-4C45-91EB-301338AAD62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7212DBAF-422E-445B-81AD-1AF32FAEE0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7212DBAF-422E-445B-81AD-1AF32FAEE0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7212DBAF-422E-445B-81AD-1AF32FAEE0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7212DBAF-422E-445B-81AD-1AF32FAEE0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C883C7A-4700-4F35-9B49-D17B0BF18282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C883C7A-4700-4F35-9B49-D17B0BF18282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C883C7A-4700-4F35-9B49-D17B0BF18282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C883C7A-4700-4F35-9B49-D17B0BF18282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2629B6B-1402-4F9C-9A15-262FD8A41627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2629B6B-1402-4F9C-9A15-262FD8A41627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2629B6B-1402-4F9C-9A15-262FD8A41627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2629B6B-1402-4F9C-9A15-262FD8A41627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85ED5D3-EAD1-4194-82F0-5CB178B0882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85ED5D3-EAD1-4194-82F0-5CB178B0882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85ED5D3-EAD1-4194-82F0-5CB178B0882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85ED5D3-EAD1-4194-82F0-5CB178B0882E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736DAB5F-451B-4E3C-A5A2-FBC81D6A6597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736DAB5F-451B-4E3C-A5A2-FBC81D6A6597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736DAB5F-451B-4E3C-A5A2-FBC81D6A6597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736DAB5F-451B-4E3C-A5A2-FBC81D6A6597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADFBB687-A425-4624-B589-6860E1852943}
+	EndGlobalSection
+EndGlobal

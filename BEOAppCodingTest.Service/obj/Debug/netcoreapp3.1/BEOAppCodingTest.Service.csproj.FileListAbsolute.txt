@@ -1,0 +1,16 @@
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Service.AssemblyInfoInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Service.AssemblyInfo.cs
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Service.csproj.CoreCompileInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Service.deps.json
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Service.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Service.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Models.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Models.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Service.csprojAssemblyReference.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Service.csproj.CopyComplete
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Service.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Service.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Service\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Dtos.pdb

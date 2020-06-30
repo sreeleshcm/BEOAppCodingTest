@@ -1,0 +1,15 @@
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.csprojAssemblyReference.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.AssemblyInfoInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.AssemblyInfo.cs
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.csproj.CoreCompileInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\bin\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.deps.json
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\bin\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.runtimeconfig.json
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\bin\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.runtimeconfig.dev.json
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\bin\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Models.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Models.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.csproj.CopyComplete
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.genruntimeconfig.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\bin\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.DataAccess\obj\Debug\netcoreapp3.1\BEOAppCodingTest.DataAccess.pdb

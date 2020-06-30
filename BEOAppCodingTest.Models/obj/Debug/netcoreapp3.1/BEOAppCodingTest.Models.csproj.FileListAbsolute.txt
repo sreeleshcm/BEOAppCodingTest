@@ -1,0 +1,9 @@
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Models.deps.json
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Models.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\bin\Debug\netcoreapp3.1\BEOAppCodingTest.Models.pdb
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Models.csprojAssemblyReference.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Models.AssemblyInfoInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Models.AssemblyInfo.cs
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Models.csproj.CoreCompileInputs.cache
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Models.dll
+D:\BEO\BEOAppCodingTest\BEOAppCodingTest.Models\obj\Debug\netcoreapp3.1\BEOAppCodingTest.Models.pdb
